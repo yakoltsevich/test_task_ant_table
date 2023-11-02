@@ -1,3 +1,5 @@
+Deployed version: https://test-task-ant-table-yakaltsevich.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
